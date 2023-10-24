@@ -1,3 +1,10 @@
+ДЛЯ МЕНЯ / FÜR MICH:
+https://www.youtube.com/watch?v=KrA2lIzE3Fk
+https://dillinger.io/
+https://chat.openai.com/c/f32fd91f-22dd-44f5-86a2-6b33f29f5402
+https://music.youtube.com/playlist?list=LM
+https://involta.ru/tools/length-chars/
+
 # BEBRA
 ## Меню
 - Заголовок с названием игры
