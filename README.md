@@ -14,8 +14,7 @@ Das ist so ziemlich meine ganze Idee. Also, an die Arbeit! (142 Wörter)
 # Arbeitspakete für 24.10.2023
 - [ ] Erlernen von Informationen über die Erstellung verschiedener Mechanismen in der Konsole. Vielleicht werde ich eine spezielle Konsolenanwendung erstellen, wenn es zu schwierig ist, auf einer normalen Konsole zu arbeiten. (Hauptziele)
 - [ ] Erstellen eines Design-Dokuments
-Nummer	Vorbereitung	Eingabe	Erwartete Ausgabe	Erfüllt?
-1				
+
 Heute habe ich... (xx Wörter)
 
 # Arbeitspakete für 31.10.2023
