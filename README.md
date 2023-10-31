@@ -25,7 +25,21 @@ Also, ich habe heute wirklich gute Arbeit geleistet. Ich habe mir ein Video-Tuto
 - [ ] Erstellen eines Design-Dokuments:
 - [x] Vollständige Vorgeschichte erstellen.
 - [x] Eine "Eliminierungs"-Quest erstellen.
-- [ ] Eine "Server"-Quest erstellen.
+- [x] Eine "Server"-Quest erstellen.
+- [ ] Eine "Backrooms"-Quest erstellen.
+- [ ] Eine "SCP Foundation"-Quest erstellen.
+- [ ] Die Errungenschaften erstellen.
+- [ ] Die verschiedene Endungen erstellen.
+
+Heute war ein recht produktiver Tag. Ich habe die zweite Aufgabe in Angriff genommen - "Server". Dieses Mal gab es viel mehr Auswahlmöglichkeiten, viel mehr Ansichten und viel, viel mehr Informationen. Zusätzlich zur Quest habe ich mir auch eine Zusammenfassung aller Verzweigungen der Quests gemacht, damit ich nicht durcheinander komme. Die umfangreichste Aufgabe wäre - Backrooms, denke ich. Im Moment überlege ich schon, wie ich es umsetzen kann, aber zuerst brauche ich ein komplettes Design-Dokument, damit ich später nicht durcheinander komme. (79 Wörter)
+
+# Arbeitspakete für 7.11.2023
+
+- [ ] Erlernen von Informationen über die Erstellung verschiedener Mechanismen in der Konsole. Vielleicht werde ich eine spezielle Konsolenanwendung erstellen, wenn es zu schwierig ist, auf einer normalen Konsole zu arbeiten. (Hauptziele)
+- [ ] Erstellen eines Design-Dokuments:
+- [x] Vollständige Vorgeschichte erstellen.
+- [x] Eine "Eliminierungs"-Quest erstellen.
+- [ ] Eine "Server"-Quest fertig erstellen.
 - [ ] Eine "Backrooms"-Quest erstellen.
 - [ ] Eine "SCP Foundation"-Quest erstellen.
 - [ ] Die Errungenschaften erstellen.
