@@ -39,8 +39,22 @@ Heute war ein recht produktiver Tag. Ich habe die zweite Aufgabe in Angriff geno
 - [ ] Erstellen eines Design-Dokuments:
 - [x] Vollständige Vorgeschichte erstellen.
 - [x] Eine "Eliminierungs"-Quest erstellen.
-- [ ] Eine "Server"-Quest fertig erstellen.
+- [x] Eine "Server"-Quest fertig erstellen.
 - [ ] Eine "Backrooms"-Quest erstellen.
 - [ ] Eine "SCP Foundation"-Quest erstellen.
 - [ ] Die Errungenschaften erstellen.
 - [ ] Die verschiedene Endungen erstellen.
+
+Heute war ein recht produktiver Tag, obwohl ich mehr hätte erreichen können. Da wir von zu Hause aus gearbeitet haben, konnte ich mich nicht richtig auf die Arbeit konzentrieren und war ständig abgelenkt. Aber egal, ich habe endlich die zweite Quest beendet und das wahre Ende des Spiels geschrieben. Ich bin stolz auf mich und meine Arbeit. Es gibt noch zwei weitere Quests, und vielleicht noch eine geheime Quest. Es gibt bereits 3 Enden im Spiel, von denen eines das wahre ist, das wichtigste. (83 Wörter)
+
+# Arbeitspakete für 7.11.2023
+
+- [ ] Erstellen Sie ein separates Programm als Konsole für das Spiel. (Hauptziele)
+- [ ] Erstellen eines Design-Dokuments (Hauptziele):
+- [x] Vollständige Vorgeschichte erstellen.
+- [x] Eine "Eliminierungs"-Quest erstellen.
+- [x] Eine "Server"-Quest fertig erstellen.
+- [ ] Eine "Backrooms"-Quest erstellen.
+- [ ] Eine "SCP Foundation"-Quest erstellen.
+- [ ] Die Errungenschaften erstellen.
+- [x] Die verschiedene Endungen erstellen.
