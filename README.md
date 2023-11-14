@@ -58,3 +58,5 @@ Heute war ein recht produktiver Tag, obwohl ich mehr hätte erreichen können. D
 - [ ] Eine "SCP Foundation"-Quest erstellen.
 - [ ] Die Errungenschaften erstellen.
 - [x] Die verschiedene Endungen erstellen.
+
+Heute habe ich endlich die zweite Quest abgeschlossen, die auch die letzte Quest für die Hauptgeschichte des Spiels ist. Die anderen beiden Quests sind "Nebenquests", die in keiner Weise mit der Hauptgeschichte zusammenhängen. Außerdem habe ich begonnen, die dritte, ziemlich große (wenn nicht sogar die größte) Quest zu schreiben, nämlich Hinterzimmer. Die letzte Quest (SCP Foundation) werde ich wahrscheinlich zugunsten einer anderen Quest aufgeben. Außerdem habe ich begonnen, die Dialoge und die Geschichte zu schreiben, die im Spiel vorkommen werden, d. h. den Text, der speziell im Spiel vorkommen wird. Davor habe ich ein Design-Dokument erstellt, das ich nur für die Erstellung des Textes im Spiel brauchte. Heute werde ich zu Hause auch studieren, wie genau ich das Spiel selbst erstellen soll, d. h. den gesamten Code und die Innereien des Spiels. (131 Wörter)
