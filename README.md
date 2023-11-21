@@ -47,7 +47,7 @@ Heute war ein recht produktiver Tag. Ich habe die zweite Aufgabe in Angriff geno
 
 Heute war ein recht produktiver Tag, obwohl ich mehr hätte erreichen können. Da wir von zu Hause aus gearbeitet haben, konnte ich mich nicht richtig auf die Arbeit konzentrieren und war ständig abgelenkt. Aber egal, ich habe endlich die zweite Quest beendet und das wahre Ende des Spiels geschrieben. Ich bin stolz auf mich und meine Arbeit. Es gibt noch zwei weitere Quests, und vielleicht noch eine geheime Quest. Es gibt bereits 3 Enden im Spiel, von denen eines das wahre ist, das wichtigste. (83 Wörter)
 
-# Arbeitspakete für 7.11.2023
+# Arbeitspakete für 14.11.2023
 
 - [ ] Erstellen Sie ein separates Programm als Konsole für das Spiel. (Hauptziele)
 - [ ] Erstellen eines Design-Dokuments (Hauptziele):
@@ -60,3 +60,17 @@ Heute war ein recht produktiver Tag, obwohl ich mehr hätte erreichen können. D
 - [x] Die verschiedene Endungen erstellen.
 
 Heute habe ich endlich die zweite Quest abgeschlossen, die auch die letzte Quest für die Hauptgeschichte des Spiels ist. Die anderen beiden Quests sind "Nebenquests", die in keiner Weise mit der Hauptgeschichte zusammenhängen. Außerdem habe ich begonnen, die dritte, ziemlich große (wenn nicht sogar die größte) Quest zu schreiben, nämlich Hinterzimmer. Die letzte Quest (SCP Foundation) werde ich wahrscheinlich zugunsten einer anderen Quest aufgeben. Außerdem habe ich begonnen, die Dialoge und die Geschichte zu schreiben, die im Spiel vorkommen werden, d. h. den Text, der speziell im Spiel vorkommen wird. Davor habe ich ein Design-Dokument erstellt, das ich nur für die Erstellung des Textes im Spiel brauchte. Heute werde ich zu Hause auch studieren, wie genau ich das Spiel selbst erstellen soll, d. h. den gesamten Code und die Innereien des Spiels. (131 Wörter)
+
+# Arbeitspakete für 21.11.2023
+
+- [ ] Erstellen Sie ein separates Programm als Konsole für das Spiel. (Hauptziele)
+- [ ] Erstellen eines Design-Dokuments (Hauptziele):
+- [x] Vollständige Vorgeschichte erstellen.
+- [x] Eine "Eliminierungs"-Quest erstellen.
+- [x] Eine "Server"-Quest fertig erstellen.
+- [ ] Eine "Backrooms"-Quest erstellen.
+- [ ] Eine "SCP Foundation"-Quest erstellen.
+- [ ] Die Errungenschaften erstellen.
+- [x] Die verschiedene Endungen erstellen.
+
+Heute wurde eine Menge Arbeit erledigt, es war ein unproduktiver Tag. Zum Glück habe ich zu Hause mit meinem Programmiererfreund gearbeitet, der mir bei einigen Dingen hilft. Im Moment bin ich damit beschäftigt, den Text zu schreiben, der im Spiel verwendet wird, und auch den Spielcode selbst. (50 Wörter)
