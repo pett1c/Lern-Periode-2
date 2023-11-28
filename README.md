@@ -74,3 +74,18 @@ Heute habe ich endlich die zweite Quest abgeschlossen, die auch die letzte Quest
 - [x] Die verschiedene Endungen erstellen.
 
 Heute wurde eine Menge Arbeit erledigt, es war ein unproduktiver Tag. Zum Glück habe ich zu Hause mit meinem Programmiererfreund gearbeitet, der mir bei einigen Dingen hilft. Im Moment bin ich damit beschäftigt, den Text zu schreiben, der im Spiel verwendet wird, und auch den Spielcode selbst. (50 Wörter)
+
+# Arbeitspakete für 28.11.2023
+
+- [ ] Erstellen Sie ein separates Programm als Konsole für das Spiel. (Hauptziele)
+- [ ] Erstellen eines Design-Dokuments (Hauptziele):
+- [x] Vollständige Vorgeschichte erstellen.
+- [x] Eine "Eliminierungs"-Quest erstellen.
+- [x] Eine "Server"-Quest fertig erstellen.
+- [ ] Eine "Backrooms"-Quest erstellen.
+- [ ] Eine "SCP Foundation"-Quest erstellen.
+- [ ] Die Errungenschaften erstellen.
+- [x] Die verschiedene Endungen erstellen.
+
+P. S. Ich habe README.md später geändert, weil ich auch in der Mittagspause gearbeitet habe.
+Heute war ich also ganz damit beschäftigt, spezielle Texte für das Spiel zu schreiben, sowie über die Mechanik des Codes und des Spiels selbst nachzudenken. Die Hälfte des ersten Kapitels ist bereits geschrieben, und es wurden Mechanismen zum Ändern von "Zweigen" im Code erstellt. Weitere Details zu diesen Mechanismen werden in design.md zu finden sein (also nicht jetzt) (71 Wörter)
