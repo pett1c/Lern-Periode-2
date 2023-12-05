@@ -89,3 +89,54 @@ Heute wurde eine Menge Arbeit erledigt, es war ein unproduktiver Tag. Zum Glück
 
 P. S. Ich habe README.md später geändert, weil ich auch in der Mittagspause gearbeitet habe.
 Heute war ich also ganz damit beschäftigt, spezielle Texte für das Spiel zu schreiben, sowie über die Mechanik des Codes und des Spiels selbst nachzudenken. Die Hälfte des ersten Kapitels ist bereits geschrieben, und es wurden Mechanismen zum Ändern von "Zweigen" im Code erstellt. Weitere Details zu diesen Mechanismen werden in design.md zu finden sein (also nicht jetzt) (71 Wörter)
+
+# Arbeitspakete für 05.12.2023
+
+- [ ] Code für ein Spiel schreiben:
+  - [ ] Hauptmenü
+  - [x] Text-Animation
+  - [ ] Füllende Bars
+  - [ ] Zufallsgenerator
+  - [x] Verzweigungslogik
+  - [ ] Zensurfunktion für unflätige Sprache
+  - [ ] Übersetzung ins Deutsche, eventuell ins Englische
+
+- [ ] Verfassen eines Entwurfsdokuments:
+  - [x] Mechanik
+  - [ ] Errungenschaften
+  - [x] Endungen
+  - [x] Spiel-Lore
+
+- [ ] Schreiben von Spieltext
+  - [x] Prolog
+  - [x] Die Hauptquest "Eliminierung"
+  - [ ] Hauptquest "Server"
+  - [ ] Zusatzquest "Backrooms"
+
+Ich habe beschlossen, die Aufgabe "SCP Foundation" zu entfernen, da ich keine Lust darauf habe und außerdem keine Zeit dafür habe.
+Darüber hinaus habe ich die Aufgaben, die getan werden müssen, geändert, können Sie es oben sehen.
+Heute habe ich Spieltext für die erste Hauptquest geschrieben (genauer gesagt: "Elimination"), sowie Fehler im Designdokument behoben, ein bisschen in meinem Code herumgekrabbelt (der ist nicht hier, weil es buchstäblich nur Code für Textanimation gibt, lol), darüber nachgedacht, wie man die Mechanik von Zweigen implementiert (wird im Designdokument beschrieben).
+
+
+# Arbeitspakete für 12.12.2023
+
+- [ ] Code für ein Spiel schreiben:
+  - [ ] Hauptmenü
+  - [x] Text-Animation
+  - [ ] Füllende Bars
+  - [ ] Zufallsgenerator
+  - [x] Verzweigungslogik
+  - [ ] Zensurfunktion für unflätige Sprache
+  - [ ] Übersetzung ins Deutsche, eventuell ins Englische
+
+- [ ] Verfassen eines Entwurfsdokuments:
+  - [x] Mechanik
+  - [ ] Errungenschaften
+  - [x] Endungen
+  - [x] Spiel-Lore
+
+- [ ] Schreiben von Spieltext
+  - [x] Prolog
+  - [x] Die Hauptquest "Eliminierung"
+  - [ ] Hauptquest "Server"
+  - [ ] Zusatzquest "Backrooms"
