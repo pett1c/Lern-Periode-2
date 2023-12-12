@@ -140,3 +140,6 @@ Heute habe ich Spieltext für die erste Hauptquest geschrieben (genauer gesagt: 
   - [x] Die Hauptquest "Eliminierung"
   - [ ] Hauptquest "Server"
   - [ ] Zusatzquest "Backrooms"
+     
+Ich werde wahrscheinlich nicht in der Lage sein, das Spiel vor den Feiertagen fertig zu stellen, aber ich werde trotzdem versuchen, während der Woche mehr Arbeit zu erledigen, und irgendwann, selbst wenn ich aus IMS rausgeschmissen werde, werde ich es fertigstellen und auf itch.io veröffentlichen
+Ich habe heute den Text für Kapitel 2 geschrieben und bin fast fertig, ich werde ihn heute fertigstellen. Ausserdem werde ich heute mit einem guten Freund chatten, der mir beim Schreiben und Verstehen des Codes hilft, den ich schreibe. (84 Wörter)
