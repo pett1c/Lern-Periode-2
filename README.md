@@ -143,3 +143,31 @@ Heute habe ich Spieltext für die erste Hauptquest geschrieben (genauer gesagt: 
      
 Ich werde wahrscheinlich nicht in der Lage sein, das Spiel vor den Feiertagen fertig zu stellen, aber ich werde trotzdem versuchen, während der Woche mehr Arbeit zu erledigen, und irgendwann, selbst wenn ich aus IMS rausgeschmissen werde, werde ich es fertigstellen und auf itch.io veröffentlichen
 Ich habe heute den Text für Kapitel 2 geschrieben und bin fast fertig, ich werde ihn heute fertigstellen. Ausserdem werde ich heute mit einem guten Freund chatten, der mir beim Schreiben und Verstehen des Codes hilft, den ich schreibe. (84 Wörter)
+
+# Arbeitspakete für 19.12.2023
+
+- [ ] Code für ein Spiel schreiben:
+  - [ ] Hauptmenü
+  - [x] Text-Animation
+  - [ ] Füllende Bars
+  - [ ] Zufallsgenerator
+  - [x] Verzweigungslogik
+  - [ ] Zensurfunktion für unflätige Sprache
+  - [ ] Übersetzung ins Deutsche, eventuell ins Englische
+
+- [ ] Verfassen eines Entwurfsdokuments:
+  - [x] Mechanik
+  - [ ] Errungenschaften
+  - [x] Endungen
+  - [x] Spiel-Lore
+
+- [ ] Schreiben von Spieltext
+  - [x] Prolog
+  - [x] Die Hauptquest "Eliminierung"
+  - [x] Hauptquest "Server"
+  - [ ] Zusatzquest "Backrooms"
+
+Ich habe heute recht produktiv gearbeitet, den Prolog ins Deutsche übersetzt (endlich) und auch das zweite Kapitel fertig geschrieben, Fehler im Haupttext finalisiert und korrigiert, das Design-Dokument weiter geschrieben, nämlich die Backrooms-Quest. (32 Wörter)
+
+
+# Reflexion.
