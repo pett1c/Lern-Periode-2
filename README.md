@@ -167,7 +167,7 @@ Ich habe heute den Text für Kapitel 2 geschrieben und bin fast fertig, ich werd
   - [x] Hauptquest "Server"
   - [ ] Zusatzquest "Backrooms"
 
-Ich habe heute recht produktiv gearbeitet, den Prolog ins Deutsche übersetzt (endlich) und auch das zweite Kapitel fertig geschrieben, Fehler im Haupttext finalisiert und korrigiert, das Design-Dokument weiter geschrieben, nämlich die Backrooms-Quest. (32 Wörter)
+Ich habe heute recht produktiv gearbeitet, den Prolog ins Deutsche übersetzt (endlich) und auch das zweite Kapitel fertig geschrieben, Fehler im Haupttext finalisiert und korrigiert, das Design-Dokument weiter geschrieben, nämlich die Backrooms-Quest. Oh, und der fertige Code wird bis zum 22.12.2023 fertig sein. (42 Wörter)
 
 
 # Reflexion.
