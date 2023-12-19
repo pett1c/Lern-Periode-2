@@ -171,3 +171,14 @@ Ich habe heute recht produktiv gearbeitet, den Prolog ins Deutsche übersetzt (e
 
 
 # Reflexion.
+Naaa... Wieder einmal bin ich nicht pünktlich. Ich übernehme Projekte, die zu gross und zu umfangreich sind, so dass ich die Fristen überhaupt nicht einhalte.
+
+Zu Beginn meiner Tätigkeit wurde ich plötzlich zum "Genie" und hatte eine wirklich sehr interessante Idee, die ich in einem unglaublichen Ausmass weiterentwickelte. Und so geschah es. Ein riesiges Design-Dokument, das ich nicht einmal zu Ende geschrieben habe, eine originelle Geschichte, interessante Charaktere, verschiedene Easter Eggs und Verweise auf andere grosse Projekte (Pager zum Beispiel, eine Verweise auf den Pipboy aus Fallout), aber...
+
+Code. Ich bin eigentlich ein ziemlich ungeschickter Programmierer, zumindest im Moment, aber wie man so schön sagt, alles ist reparabel, also werde ich versuchen, bald wieder in den "Flow" des Programmierens zu kommen, wie ich es schon einmal hatte. Früher, vor etwa zwei oder drei Jahren, habe ich viel programmieren gelernt und war ständig in Arbeit... und ich habe es geliebt. Das war wirklich interessant. Aber jetzt, angesichts solcher Schwierigkeiten wie: deutsche Sprache, ein ganzer Haufen unnötiger Fächer für einen Informatiker, idiotische Regeln, Noten, veraltetes Bildungssystem, und im Allgemeinen ein völliger Mangel an Lust, etwas zu tun, völlige Apathie und in gewisser Weise Depression.
+
+Im Moment bin ich auf Musik im Allgemeinen umgestiegen — mein erstes Album kommt bald heraus. Früher habe ich viel geschrieben, deshalb ist das Projekt auch so entstanden.
+
+Ich hatte und habe immer noch grosse Hoffnungen für mich und dieses Projekt, also habe ich beschlossen, dass es mir egal ist, ob ich von der Kantonsschule rausgeschmissen werde, ob ich es bis zum Ende der Lernperiode schaffe oder nicht, ich werde es selbst oder mit der Hilfe von jemand anderem fertigstellen. Ich habe bereits meine Kollegin angeheuert, um das Original-Cover für itch.io zu erstellen, und wenn die User wirklich Gefallen an dem Spiel finden, werde ich es sogar auf Steam veröffentlichen. Vielleicht mache ich einen visuellen Roman aus dieser Geschichte, vielleicht lasse ich sie so, wie sie ist, aber so oder so habe ich während dieser Lernperiode eine Menge neuer Dinge entdeckt. Auch mich selbst als Person, als Autor und als Programmierer.
+
+Ja, natürlich habe ich oft nachgelassen und hatte weder die Inspiration zum Schreiben noch die Lust dazu, aber auf jeden Fall habe ich dieses Spiel fortgesetzt, fortsetze jetzt und werde es fortsetzen, sonst - werde ich mich hassen. So einfach ist das. Danke. (384 Wörter)
